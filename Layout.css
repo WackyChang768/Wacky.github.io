@@ -280,14 +280,12 @@
     display: none;
   }
 }
-
 /* Tablet - 768px */
 @media only screen and (min-width: 48rem) {
   #cs-navigation .cs-contact-group {
     display: block;
   }
 }
-
 /*-- -------------------------- -->
 <---     Navigation Dropdown    -->
 <--- -------------------------- -*/
